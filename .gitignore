@@ -1,0 +1,32 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# IntelliJ IDEA
+.idea/
+out/
+
+# Maven
+target/
+
+# Gradle
+build/
+
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Javadoc generated files
+/doc/
+
+# Dependency directories
+/lib/
